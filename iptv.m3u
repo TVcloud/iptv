@@ -155,6 +155,16 @@ http://192.168.9.1:8888/rtp/239.77.1.247:5146
 http://192.168.9.1:8888/rtp/239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳东部" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-SHENZHEN.png" group-title="C-粤深",深圳东部
 http://192.168.9.1:8888/rtp/239.77.1.224:5146
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-GUANGZHOU.png" group-title="D-地市",广州综合
+http://116.199.5.251/hls/gzds.m3u8
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-GUANGZHOU.png" group-title="D-地市",广州新闻
+http://116.199.5.251/hls/gzxw.m3u8
+#EXTINF:-1 tvg-name="广州影视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-GUANGZHOU.png" group-title="D-地市",广州影视
+http://116.199.5.251/hls/gzys.m3u8
+#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-GUANGZHOU.png" group-title="D-地市",广州法治
+http://116.199.5.251/hls/gzqx.m3u8
+#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-GUANGZHOU.png" group-title="D-地市",广州竞赛
+http://116.199.5.251/hls/gzjs.m3u8
 #EXTINF:-1 tvg-name="珠海一台" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-ZHUHAI.png" group-title="D-地市",珠海一台
 http://192.168.9.1:8888/rtp/239.77.0.155:5146
 #EXTINF:-1 tvg-name="珠海二台" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-ZHUHAI.png" group-title="D-地市",珠海二台
