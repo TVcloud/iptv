@@ -113,6 +113,8 @@ http://192.168.9.1:8888/rtp/239.77.0.150:5146
 http://192.168.9.1:8888/rtp/239.77.0.159:5146
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-YUNNAN.png" group-title="B-卫视",云南卫视
 http://192.168.9.1:8888/rtp/239.253.43.37:5146
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-HAIXIA.png" group-title="B-卫视",海峡卫视
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GUANGDONG.png" group-title="C-粤深",南方卫视
 http://192.168.9.1:8888/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GUANGDONG.png" group-title="C-粤深",广东珠江
@@ -268,9 +270,11 @@ http://192.168.9.1:8888/rtp/239.253.43.218:5146
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-AS4K.png" group-title="E-特色",爱上4K
 http://192.168.9.1:8888/rtp/239.253.43.219:5146
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-FHZW.png" group-title="E-特色",凤凰中文
-http://124.232.233.17:6610/000000001001/201500000230/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-FHZX.png" group-title="E-特色",凤凰资讯
-http://124.232.233.17:6610/000000001001/201500000231/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-FHHK.png" group-title="E-特色",凤凰香港
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-name="IPTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-IPTV.png" group-title="E-特色",IPTV-4K
 http://124.232.233.17:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-HUNAN.png" group-title="F-省外",湖南经视
@@ -351,3 +355,19 @@ https://livealone302.iqilu.com/iqilu/nkpd.m3u8
 https://livealone302.iqilu.com/iqilu/yspd.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-SHANDONG.png" group-title="F-省外",山东少儿
 https://livealone302.iqilu.com/iqilu/sepd.m3u8
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建新闻
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226116/10000100000000060000000002358068_0.smil
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建旅游
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226125/10000100000000060000000002358191_0.smil
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建综合
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+#EXTINF:-1 tvg-name="福建经济" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建经济
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226117/10000100000000060000000002358072_0.smil
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建公共
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226113/10000100000000060000000002358064_0.smil
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建少儿
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+#EXTINF:-1 tvg-name="福建体育" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建体育
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="F-省外",福建电视剧
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
