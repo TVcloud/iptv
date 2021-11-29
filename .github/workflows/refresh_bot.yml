@@ -1,0 +1,20 @@
+name: 'REFRESH BOT'
+
+on:
+  workflow_dispatch:
+  push:
+    paths: 
+      - '*.m3u'
+      - '*.xml'
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+jobs:
+  refreshbot:
+    name: Python PLAYLIST_BOT
+    runs-on: ubuntu-latest
+    steps:
+      - name: Refresh CDN
+        run: |
+          curl https://purge.jsdelivr.net/gh/tvcloud/iptv/iptv.m3u
+          curl https://purge.jsdelivr.net/gh/tvcloud/iptv/wifi.m3u
+          curl https://purge.jsdelivr.net/gh/tvcloud/iptv/epg.xml
