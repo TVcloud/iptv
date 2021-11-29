@@ -116,11 +116,11 @@ http://192.168.9.1:8888/rtp/239.253.43.37:5146
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-HAIXIA.png" group-title="B-卫视",海峡卫视
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-FHZW.png" group-title="B-卫视",凤凰中文
-http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221228057/index.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-FHZX.png" group-title="B-卫视",凤凰资讯
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221228098/index.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-FHHK.png" group-title="B-卫视",凤凰香港
-http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+http://ott.js.chinamobile.com/TVOD/3/224/3221228060/index.m3u8
 #EXTINF:-1 tvg-name="南方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GUANGDONG.png" group-title="C-广东省",南方卫视
 http://192.168.9.1:8888/rtp/239.77.0.215:5146
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GUANGDONG.png" group-title="C-广东省",广东珠江
@@ -353,6 +353,24 @@ rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/1000010000000006000000000
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226127/10000100000000060000000002434540_0.smil
 #EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-DONGNAN.png" group-title="E-其他省",福建电视剧
 rtsp://183.252.176.54:554/PLTV/88888888/224/3221226115/10000100000000060000000002358067_0.smil
+#EXTINF:-1 tvg-name="甘肃公共应急" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GANSU.png" group-title="E-其他省",甘肃公共应急
+http://39.134.39.39/PLTV/88888888/224/3221226250/index.m3u8
+#EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GANSU.png" group-title="E-其他省",甘肃少儿
+http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
+#EXTINF:-1 tvg-name="甘肃文化影视" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GANSU.png" group-title="E-其他省",甘肃文化影视
+http://39.134.39.39/PLTV/88888888/224/3221226287/index.m3u8
+#EXTINF:-1 tvg-name="甘肃经济" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GANSU.png" group-title="E-其他省",甘肃经济
+http://39.134.39.39/PLTV/88888888/224/3221226252/index.m3u8
+#EXTINF:-1 tvg-name="甘肃都市" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-GANSU.png" group-title="E-其他省",甘肃都市
+http://39.134.39.39/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 tvg-name="兰州公共" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-LANZHOU.png" group-title="E-其他省",兰州公共
+http://39.134.39.39/PLTV/88888888/224/3221226244/index.m3u8
+#EXTINF:-1 tvg-name="兰州新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-LANZHOU.png" group-title="E-其他省",兰州新闻综合
+http://39.134.39.39/PLTV/88888888/224/3221226242/index.m3u8
+#EXTINF:-1 tvg-name="兰州生活经济" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-LANZHOU.png" group-title="E-其他省",兰州生活经济
+http://39.134.39.39/PLTV/88888888/224/3221226285/index.m3u8
+#EXTINF:-1 tvg-name="兰州综艺体育" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/DF-LANZHOU.png" group-title="E-其他省",兰州综艺体育
+http://39.134.39.39/PLTV/88888888/224/3221226246/index.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-HUNAN.png" group-title="F-特色",快乐垂钓
 http://192.168.9.1:8888/rtp/239.77.0.145:5146
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/WS-HUNAN.png" group-title="F-特色",茶频道
@@ -373,6 +391,8 @@ http://192.168.9.1:8888/rtp/239.77.0.180:5146
 http://192.168.9.1:8888/rtp/239.77.1.249:5146
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-ZHMS.png" group-title="F-特色",中华美食
 http://192.168.9.1:8888/rtp/239.253.43.40:5146
+#EXTINF:-1 tvg-name="江西陶瓷" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-TAOCI.png" group-title="F-特色",江西陶瓷
+http://ott.js.chinamobile.com/TVOD/3/224/3221227768/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-QSPD.png" group-title="F-特色",求索生活
 http://192.168.9.1:8888/rtp/239.77.0.153:5146
 #EXTINF:-1 tvg-name="CHC电影" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-CHCM.png" group-title="F-特色",CHC高清电影
@@ -408,7 +428,7 @@ http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-SITV.png" group-title="F-特色",SiTV动漫秀场
 http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="SiTV欢笑剧场" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-SITV.png" group-title="F-特色",SiTV欢笑剧场
-http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8
 #EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-SITV.png" group-title="F-特色",SiTV都市剧场
 http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-name="SiTV魅力足球" tvg-logo="https://cdn.jsdelivr.net/gh/tvcloud/iptv/logo/TS-SITV.png" group-title="F-特色",SiTV魅力足球
