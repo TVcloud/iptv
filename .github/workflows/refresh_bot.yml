@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
   push:
     paths: 
-      - '*.m3u'
       - '*.xml'
 env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
@@ -15,6 +14,5 @@ jobs:
     steps:
       - name: Refresh CDN
         run: |
-          curl https://purge.jsdelivr.net/gh/tvcloud/iptv/iptv.m3u
-          curl https://purge.jsdelivr.net/gh/tvcloud/iptv/wifi.m3u
+          sleep 300
           curl https://purge.jsdelivr.net/gh/tvcloud/iptv/epg.xml
