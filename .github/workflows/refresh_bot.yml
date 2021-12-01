@@ -9,7 +9,7 @@ env:
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 jobs:
   refreshbot:
-    name: Python PLAYLIST_BOT
+    name: Refresh CDN_BOT
     runs-on: ubuntu-latest
     steps:
       - name: Refresh CDN
