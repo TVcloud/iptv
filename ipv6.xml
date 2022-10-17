@@ -36,125 +36,92 @@
 	<channel id="6012">
 		<display-name lang="zh">海南少儿</display-name>
 	</channel>
-	<programme start="20221017000000 +0800" stop="20221017004100 +0800" channel="6001">
+	<programme start="20221018000000 +0800" stop="20221018003000 +0800" channel="6001">
 		<title lang="zh">续昨日节目</title>
 	</programme>
-	<programme start="20221017004100 +0800" stop="20221017013000 +0800" channel="6001">
-		<title lang="zh">跨过鸭绿江(38)</title>
+	<programme start="20221018003000 +0800" stop="20221018010000 +0800" channel="6001">
+		<title lang="zh">星光剧场:跨过鸭绿江(39)</title>
 	</programme>
-	<programme start="20221017013000 +0800" stop="20221017032000 +0800" channel="6001">
+	<programme start="20221018010000 +0800" stop="20221018013000 +0800" channel="6001">
+		<title lang="zh">星光剧场:跨过鸭绿江(40)</title>
+	</programme>
+	<programme start="20221018013000 +0800" stop="20221018020000 +0800" channel="6001">
+		<title lang="zh">星光剧场:觉醒年代(1)</title>
+	</programme>
+	<programme start="20221018020000 +0800" stop="20221018030000 +0800" channel="6001">
 		<title lang="zh">纪录片</title>
 	</programme>
-	<programme start="20221017032000 +0800" stop="20221017041300 +0800" channel="6001">
-		<title lang="zh">飞哥大英雄(30)</title>
+	<programme start="20221018030000 +0800" stop="20221018065500 +0800" channel="6001">
+		<title lang="zh">总局纪录片</title>
 	</programme>
-	<programme start="20221017041300 +0800" stop="20221017050700 +0800" channel="6001">
-		<title lang="zh">飞哥大英雄(31)</title>
+	<programme start="20221018065500 +0800" stop="20221018070000 +0800" channel="6001">
+		<title lang="zh">国防大北疆</title>
 	</programme>
-	<programme start="20221017050700 +0800" stop="20221017060100 +0800" channel="6001">
-		<title lang="zh">飞哥大英雄(32)</title>
-	</programme>
-	<programme start="20221017060100 +0800" stop="20221017065500 +0800" channel="6001">
-		<title lang="zh">飞哥大英雄(33)</title>
-	</programme>
-	<programme start="20221017065500 +0800" stop="20221017070000 +0800" channel="6001">
-		<title lang="zh">纪录片</title>
-	</programme>
-	<programme start="20221017070000 +0800" stop="20221017070100 +0800" channel="6001">
+	<programme start="20221018070000 +0800" stop="20221018070100 +0800" channel="6001">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme start="20221017070100 +0800" stop="20221017073000 +0800" channel="6001">
+	<programme start="20221018070100 +0800" stop="20221018073000 +0800" channel="6001">
 		<title lang="zh">专题</title>
 	</programme>
-	<programme start="20221017073000 +0800" stop="20221017075500 +0800" channel="6001">
+	<programme start="20221018073000 +0800" stop="20221018075500 +0800" channel="6001">
 		<title lang="zh">内蒙古新闻联播</title>
 	</programme>
-	<programme start="20221017075500 +0800" stop="20221017080000 +0800" channel="6001">
+	<programme start="20221018075500 +0800" stop="20221018080000 +0800" channel="6001">
 		<title lang="zh">草原音画</title>
 	</programme>
-	<programme start="20221017080000 +0800" stop="20221017085200 +0800" channel="6001">
+	<programme start="20221018080000 +0800" stop="20221018084300 +0800" channel="6001">
 		<title lang="zh">动画剧场</title>
 	</programme>
-	<programme start="20221017085200 +0800" stop="20221017093700 +0800" channel="6001">
-		<title lang="zh">经典剧场:红高粱(65)</title>
-	</programme>
-	<programme start="20221017093700 +0800" stop="20221017102100 +0800" channel="6001">
-		<title lang="zh">经典剧场:红高粱(66)</title>
-	</programme>
-	<programme start="20221017102100 +0800" stop="20221017110900 +0800" channel="6001">
-		<title lang="zh">经典剧场:红高粱(67)</title>
-	</programme>
-	<programme start="20221017110900 +0800" stop="20221018003700 +0800" channel="6001">
-		<title lang="zh">经典剧场:红高粱(68)</title>
-	</programme>
-	<programme start="20221018003700 +0800" stop="20221018012900 +0800" channel="6001">
-		<title lang="zh">星光剧场:跨过鸭绿江(26)</title>
-	</programme>
-	<programme start="20221018012900 +0800" stop="20221018021000 +0800" channel="6001">
-		<title lang="zh">星光剧场:跨过鸭绿江(27)</title>
-	</programme>
-	<programme start="20221018021000 +0800" stop="20221018031000 +0800" channel="6001">
-		<title lang="zh">马兰花开</title>
-	</programme>
-	<programme start="20221018031000 +0800" stop="20221018041000 +0800" channel="6001">
-		<title lang="zh">马兰花开</title>
-	</programme>
-	<programme start="20221018041000 +0800" stop="20221018050400 +0800" channel="6001">
-		<title lang="zh">马兰花开</title>
-	</programme>
-	<programme start="20221018050400 +0800" stop="20221018054500 +0800" channel="6001">
-		<title lang="zh">清晨剧场</title>
-	</programme>
-	<programme start="20221018054500 +0800" stop="20221018063600 +0800" channel="6001">
-		<title lang="zh">清晨剧场</title>
-	</programme>
-	<programme start="20221018063600 +0800" stop="20221018070800 +0800" channel="6001">
-		<title lang="zh">清晨剧场</title>
-	</programme>
-	<programme start="20221018070800 +0800" stop="20221018073000 +0800" channel="6001">
-		<title lang="zh">福彩草原情</title>
-	</programme>
-	<programme start="20221018073000 +0800" stop="20221018080000 +0800" channel="6001">
-		<title lang="zh">内蒙古新闻联播</title>
-	</programme>
-	<programme start="20221018080000 +0800" stop="20221018084300 +0800" channel="6001">
-		<title lang="zh">动画片剧场</title>
-	</programme>
 	<programme start="20221018084300 +0800" stop="20221018092600 +0800" channel="6001">
-		<title lang="zh">经典剧场</title>
+		<title lang="zh">经典剧场:海棠依旧(5)</title>
 	</programme>
 	<programme start="20221018092600 +0800" stop="20221018101700 +0800" channel="6001">
-		<title lang="zh">经典剧场</title>
+		<title lang="zh">经典剧场:海棠依旧(5)</title>
 	</programme>
 	<programme start="20221018101700 +0800" stop="20221018110700 +0800" channel="6001">
-		<title lang="zh">经典剧场</title>
+		<title lang="zh">经典剧场:海棠依旧(7)</title>
 	</programme>
-	<programme start="20221018110700 +0800" stop="20221019000000 +0800" channel="6001">
-		<title lang="zh">经典剧场</title>
+	<programme start="20221018110700 +0800" stop="20221019002500 +0800" channel="6001">
+		<title lang="zh">经典剧场:海棠依旧(8)</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017002500 +0800" channel="6002">
-		<title lang="zh">续昨日节目</title>
+	<programme start="20221019002500 +0800" stop="20221019010700 +0800" channel="6001">
+		<title lang="zh">星光剧场:觉醒年代(4)</title>
 	</programme>
-	<programme start="20221017002500 +0800" stop="20221017012500 +0800" channel="6002">
-		<title lang="zh">法治专线</title>
+	<programme start="20221019010700 +0800" stop="20221019020000 +0800" channel="6001">
+		<title lang="zh">星光剧场:觉醒年代(5)</title>
 	</programme>
-	<programme start="20221017012500 +0800" stop="20221017060000 +0800" channel="6002">
-		<title lang="zh">午夜剧场</title>
+	<programme start="20221019020000 +0800" stop="20221019052400 +0800" channel="6001">
+		<title lang="zh">静屏</title>
 	</programme>
-	<programme start="20221017060000 +0800" stop="20221017070000 +0800" channel="6002">
-		<title lang="zh">新闻天天看</title>
+	<programme start="20221019052400 +0800" stop="20221019061500 +0800" channel="6001">
+		<title lang="zh">清晨剧场</title>
 	</programme>
-	<programme start="20221017070000 +0800" stop="20221017080000 +0800" channel="6002">
-		<title lang="zh">草原晨曲</title>
+	<programme start="20221019061500 +0800" stop="20221019071000 +0800" channel="6001">
+		<title lang="zh">清晨剧场</title>
 	</programme>
-	<programme start="20221017080000 +0800" stop="20221017090000 +0800" channel="6002">
-		<title lang="zh">草原晨曲</title>
+	<programme start="20221019071000 +0800" stop="20221019073000 +0800" channel="6001">
+		<title lang="zh">草原音画</title>
 	</programme>
-	<programme start="20221017090000 +0800" stop="20221017115000 +0800" channel="6002">
+	<programme start="20221019073000 +0800" stop="20221019080000 +0800" channel="6001">
 		<title lang="zh">内蒙古新闻联播</title>
 	</programme>
-	<programme start="20221017115000 +0800" stop="20221018000500 +0800" channel="6002">
-		<title lang="zh">法治专线</title>
+	<programme start="20221019080000 +0800" stop="20221019083500 +0800" channel="6001">
+		<title lang="zh">动画片剧场</title>
+	</programme>
+	<programme start="20221019083500 +0800" stop="20221019092100 +0800" channel="6001">
+		<title lang="zh">经典剧场:海棠依旧(9)</title>
+	</programme>
+	<programme start="20221019092100 +0800" stop="20221019101300 +0800" channel="6001">
+		<title lang="zh">经典剧场:海棠依旧(10)</title>
+	</programme>
+	<programme start="20221019101300 +0800" stop="20221019110600 +0800" channel="6001">
+		<title lang="zh">经典剧场:海棠依旧(11)</title>
+	</programme>
+	<programme start="20221019110600 +0800" stop="20221020000000 +0800" channel="6001">
+		<title lang="zh">经典剧场:海棠依旧(12)</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018000500 +0800" channel="6002">
+		<title lang="zh">续昨日节目</title>
 	</programme>
 	<programme start="20221018000500 +0800" stop="20221018010500 +0800" channel="6002">
 		<title lang="zh">新闻天天看</title>
@@ -174,32 +141,29 @@
 	<programme start="20221018090000 +0800" stop="20221018115000 +0800" channel="6002">
 		<title lang="zh">内蒙古新闻联播</title>
 	</programme>
-	<programme start="20221018115000 +0800" stop="20221019000000 +0800" channel="6002">
+	<programme start="20221018115000 +0800" stop="20221019004500 +0800" channel="6002">
 		<title lang="zh">法治专线</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017010100 +0800" channel="6003">
+	<programme start="20221019004500 +0800" stop="20221019014500 +0800" channel="6002">
+		<title lang="zh">法治专线</title>
+	</programme>
+	<programme start="20221019014500 +0800" stop="20221019060000 +0800" channel="6002">
+		<title lang="zh">午夜剧场</title>
+	</programme>
+	<programme start="20221019060000 +0800" stop="20221019070000 +0800" channel="6002">
+		<title lang="zh">新闻天天看</title>
+	</programme>
+	<programme start="20221019070000 +0800" stop="20221019090000 +0800" channel="6002">
+		<title lang="zh">草原晨曲</title>
+	</programme>
+	<programme start="20221019090000 +0800" stop="20221019115000 +0800" channel="6002">
+		<title lang="zh">内蒙古新闻联播</title>
+	</programme>
+	<programme start="20221019115000 +0800" stop="20221020000000 +0800" channel="6002">
+		<title lang="zh">法治专线</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018000100 +0800" channel="6003">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017010100 +0800" stop="20221017020100 +0800" channel="6003">
-		<title lang="zh">我要斗地主</title>
-	</programme>
-	<programme start="20221017020100 +0800" stop="20221017063100 +0800" channel="6003">
-		<title lang="zh">律动剧场</title>
-	</programme>
-	<programme start="20221017063100 +0800" stop="20221017071000 +0800" channel="6003">
-		<title lang="zh">体育新闻</title>
-	</programme>
-	<programme start="20221017071000 +0800" stop="20221017074000 +0800" channel="6003">
-		<title lang="zh">世界多美丽</title>
-	</programme>
-	<programme start="20221017074000 +0800" stop="20221017083000 +0800" channel="6003">
-		<title lang="zh">逗你乐翻天</title>
-	</programme>
-	<programme start="20221017083000 +0800" stop="20221017114000 +0800" channel="6003">
-		<title lang="zh">文苑剧场</title>
-	</programme>
-	<programme start="20221017114000 +0800" stop="20221018000100 +0800" channel="6003">
-		<title lang="zh">君子好球</title>
 	</programme>
 	<programme start="20221018000100 +0800" stop="20221018055500 +0800" channel="6003">
 		<title lang="zh">律动剧场</title>
@@ -219,35 +183,26 @@
 	<programme start="20221018083000 +0800" stop="20221018114000 +0800" channel="6003">
 		<title lang="zh">文苑剧场</title>
 	</programme>
-	<programme start="20221018114000 +0800" stop="20221019000000 +0800" channel="6003">
+	<programme start="20221018114000 +0800" stop="20221019063100 +0800" channel="6003">
 		<title lang="zh">君子好球</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017003000 +0800" channel="6004">
+	<programme start="20221019063100 +0800" stop="20221019071000 +0800" channel="6003">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme start="20221019071000 +0800" stop="20221019074000 +0800" channel="6003">
+		<title lang="zh">世界多美丽</title>
+	</programme>
+	<programme start="20221019074000 +0800" stop="20221019083000 +0800" channel="6003">
+		<title lang="zh">逗你乐翻天</title>
+	</programme>
+	<programme start="20221019083000 +0800" stop="20221019114000 +0800" channel="6003">
+		<title lang="zh">文苑剧场</title>
+	</programme>
+	<programme start="20221019114000 +0800" stop="20221020000000 +0800" channel="6003">
+		<title lang="zh">君子好球</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018003000 +0800" channel="6004">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017003000 +0800" stop="20221017061700 +0800" channel="6004">
-		<title lang="zh">凌晨剧场</title>
-	</programme>
-	<programme start="20221017061700 +0800" stop="20221017063700 +0800" channel="6004">
-		<title lang="zh">生活早知道精编版</title>
-	</programme>
-	<programme start="20221017063700 +0800" stop="20221017065700 +0800" channel="6004">
-		<title lang="zh">美食美刻</title>
-	</programme>
-	<programme start="20221017065700 +0800" stop="20221017073700 +0800" channel="6004">
-		<title lang="zh">李乐在说</title>
-	</programme>
-	<programme start="20221017073700 +0800" stop="20221017083200 +0800" channel="6004">
-		<title lang="zh">都市全接触</title>
-	</programme>
-	<programme start="20221017083200 +0800" stop="20221017111700 +0800" channel="6004">
-		<title lang="zh">上午剧场</title>
-	</programme>
-	<programme start="20221017111700 +0800" stop="20221017114200 +0800" channel="6004">
-		<title lang="zh">美食美刻</title>
-	</programme>
-	<programme start="20221017114200 +0800" stop="20221018003000 +0800" channel="6004">
-		<title lang="zh">都市全接触</title>
 	</programme>
 	<programme start="20221018003000 +0800" stop="20221018061700 +0800" channel="6004">
 		<title lang="zh">凌晨剧场</title>
@@ -270,20 +225,35 @@
 	<programme start="20221018111700 +0800" stop="20221018114200 +0800" channel="6004">
 		<title lang="zh">美食美刻</title>
 	</programme>
-	<programme start="20221018114200 +0800" stop="20221019000000 +0800" channel="6004">
+	<programme start="20221018114200 +0800" stop="20221019003000 +0800" channel="6004">
 		<title lang="zh">都市全接触</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017013500 +0800" channel="6005">
+	<programme start="20221019003000 +0800" stop="20221019061700 +0800" channel="6004">
+		<title lang="zh">凌晨剧场</title>
+	</programme>
+	<programme start="20221019061700 +0800" stop="20221019063700 +0800" channel="6004">
+		<title lang="zh">生活早知道精编版</title>
+	</programme>
+	<programme start="20221019063700 +0800" stop="20221019065700 +0800" channel="6004">
+		<title lang="zh">美食美刻</title>
+	</programme>
+	<programme start="20221019065700 +0800" stop="20221019073700 +0800" channel="6004">
+		<title lang="zh">李乐在说</title>
+	</programme>
+	<programme start="20221019073700 +0800" stop="20221019083200 +0800" channel="6004">
+		<title lang="zh">都市全接触</title>
+	</programme>
+	<programme start="20221019083200 +0800" stop="20221019111700 +0800" channel="6004">
+		<title lang="zh">上午剧场</title>
+	</programme>
+	<programme start="20221019111700 +0800" stop="20221019114200 +0800" channel="6004">
+		<title lang="zh">美食美刻</title>
+	</programme>
+	<programme start="20221019114200 +0800" stop="20221020000000 +0800" channel="6004">
+		<title lang="zh">都市全接触</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018013500 +0800" channel="6005">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017013500 +0800" stop="20221017063000 +0800" channel="6005">
-		<title lang="zh">黄金剧场2</title>
-	</programme>
-	<programme start="20221017063000 +0800" stop="20221017084500 +0800" channel="6005">
-		<title lang="zh">清晨剧场</title>
-	</programme>
-	<programme start="20221017084500 +0800" stop="20221018013500 +0800" channel="6005">
-		<title lang="zh">动画片</title>
 	</programme>
 	<programme start="20221018013500 +0800" stop="20221018063000 +0800" channel="6005">
 		<title lang="zh">黄金剧场2</title>
@@ -291,17 +261,17 @@
 	<programme start="20221018063000 +0800" stop="20221018084500 +0800" channel="6005">
 		<title lang="zh">清晨剧场</title>
 	</programme>
-	<programme start="20221018084500 +0800" stop="20221019000000 +0800" channel="6005">
+	<programme start="20221018084500 +0800" stop="20221019013500 +0800" channel="6005">
 		<title lang="zh">动画片</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017014300 +0800" channel="6006">
-		<title lang="zh">星光剧场</title>
+	<programme start="20221019013500 +0800" stop="20221019063000 +0800" channel="6005">
+		<title lang="zh">黄金剧场2</title>
 	</programme>
-	<programme start="20221017014300 +0800" stop="20221017072700 +0800" channel="6006">
-		<title lang="zh">午夜剧场</title>
-	</programme>
-	<programme start="20221017072700 +0800" stop="20221018000000 +0800" channel="6006">
+	<programme start="20221019063000 +0800" stop="20221019084500 +0800" channel="6005">
 		<title lang="zh">清晨剧场</title>
+	</programme>
+	<programme start="20221019084500 +0800" stop="20221020000000 +0800" channel="6005">
+		<title lang="zh">动画片</title>
 	</programme>
 	<programme start="20221018000000 +0800" stop="20221018014300 +0800" channel="6006">
 		<title lang="zh">星光剧场</title>
@@ -312,74 +282,17 @@
 	<programme start="20221018072700 +0800" stop="20221019000000 +0800" channel="6006">
 		<title lang="zh">清晨剧场</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017001500 +0800" channel="6007">
-		<title lang="zh">续昨日节目</title>
+	<programme start="20221019000000 +0800" stop="20221019014300 +0800" channel="6006">
+		<title lang="zh">星光剧场</title>
 	</programme>
-	<programme start="20221017001500 +0800" stop="20221017004000 +0800" channel="6007">
-		<title lang="zh">诗意时间</title>
+	<programme start="20221019014300 +0800" stop="20221019072700 +0800" channel="6006">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme start="20221017004000 +0800" stop="20221017012000 +0800" channel="6007">
-		<title lang="zh">风尚潮</title>
-	</programme>
-	<programme start="20221017012000 +0800" stop="20221017020000 +0800" channel="6007">
-		<title lang="zh">精编节目</title>
-	</programme>
-	<programme start="20221017020000 +0800" stop="20221017023000 +0800" channel="6007">
-		<title lang="zh">南海直播室</title>
-	</programme>
-	<programme start="20221017023000 +0800" stop="20221017032000 +0800" channel="6007">
-		<title lang="zh">Discover新海南</title>
-	</programme>
-	<programme start="20221017032000 +0800" stop="20221017040000 +0800" channel="6007">
-		<title lang="zh">跟着经典去旅行</title>
-	</programme>
-	<programme start="20221017040000 +0800" stop="20221017043000 +0800" channel="6007">
-		<title lang="zh">三沙新闻</title>
-	</programme>
-	<programme start="20221017043000 +0800" stop="20221017051500 +0800" channel="6007">
-		<title lang="zh">你好自贸港</title>
-	</programme>
-	<programme start="20221017051500 +0800" stop="20221017060000 +0800" channel="6007">
-		<title lang="zh">风尚潮</title>
-	</programme>
-	<programme start="20221017060000 +0800" stop="20221017063000 +0800" channel="6007">
-		<title lang="zh">Discover新海南</title>
-	</programme>
-	<programme start="20221017063000 +0800" stop="20221017070000 +0800" channel="6007">
-		<title lang="zh">精编节目</title>
-	</programme>
-	<programme start="20221017070000 +0800" stop="20221017070100 +0800" channel="6007">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme start="20221017070100 +0800" stop="20221017072000 +0800" channel="6007">
-		<title lang="zh">专题</title>
-	</programme>
-	<programme start="20221017072000 +0800" stop="20221017080000 +0800" channel="6007">
-		<title lang="zh">三沙新闻</title>
-	</programme>
-	<programme start="20221017080000 +0800" stop="20221017082800 +0800" channel="6007">
-		<title lang="zh">南海直播室</title>
-	</programme>
-	<programme start="20221017082800 +0800" stop="20221017084300 +0800" channel="6007">
-		<title lang="zh">天气预报</title>
-	</programme>
-	<programme start="20221017084300 +0800" stop="20221017090000 +0800" channel="6007">
-		<title lang="zh">滨海旅游环境预报</title>
-	</programme>
-	<programme start="20221017090000 +0800" stop="20221017103000 +0800" channel="6007">
-		<title lang="zh">电影时间</title>
-	</programme>
-	<programme start="20221017103000 +0800" stop="20221017111000 +0800" channel="6007">
-		<title lang="zh">诗意时间</title>
-	</programme>
-	<programme start="20221017111000 +0800" stop="20221017115000 +0800" channel="6007">
-		<title lang="zh">思想耀江山</title>
-	</programme>
-	<programme start="20221017115000 +0800" stop="20221018000000 +0800" channel="6007">
-		<title lang="zh">中国海岛环境预报</title>
+	<programme start="20221019072700 +0800" stop="20221020000000 +0800" channel="6006">
+		<title lang="zh">清晨剧场</title>
 	</programme>
 	<programme start="20221018000000 +0800" stop="20221018001500 +0800" channel="6007">
-		<title lang="zh">电影时间</title>
+		<title lang="zh">续昨日节目</title>
 	</programme>
 	<programme start="20221018001500 +0800" stop="20221018004000 +0800" channel="6007">
 		<title lang="zh">诗意时间</title>
@@ -411,8 +324,11 @@
 	<programme start="20221018060000 +0800" stop="20221018063000 +0800" channel="6007">
 		<title lang="zh">巡航祖宗海</title>
 	</programme>
-	<programme start="20221018063000 +0800" stop="20221018070100 +0800" channel="6007">
+	<programme start="20221018063000 +0800" stop="20221018070000 +0800" channel="6007">
 		<title lang="zh">精编节目</title>
+	</programme>
+	<programme start="20221018070000 +0800" stop="20221018070100 +0800" channel="6007">
+		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
 	<programme start="20221018070100 +0800" stop="20221018072000 +0800" channel="6007">
 		<title lang="zh">专题</title>
@@ -441,50 +357,71 @@
 	<programme start="20221018115000 +0800" stop="20221019000000 +0800" channel="6007">
 		<title lang="zh">中国海岛环境预报</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017072500 +0800" channel="6008">
+	<programme start="20221019000000 +0800" stop="20221019001500 +0800" channel="6007">
+		<title lang="zh">电影时间</title>
+	</programme>
+	<programme start="20221019001500 +0800" stop="20221019004000 +0800" channel="6007">
+		<title lang="zh">诗意时间</title>
+	</programme>
+	<programme start="20221019004000 +0800" stop="20221019012000 +0800" channel="6007">
+		<title lang="zh">风尚潮</title>
+	</programme>
+	<programme start="20221019012000 +0800" stop="20221019020000 +0800" channel="6007">
+		<title lang="zh">精编节目</title>
+	</programme>
+	<programme start="20221019020000 +0800" stop="20221019023000 +0800" channel="6007">
+		<title lang="zh">南海直播室</title>
+	</programme>
+	<programme start="20221019023000 +0800" stop="20221019032000 +0800" channel="6007">
+		<title lang="zh">海南岛纪事</title>
+	</programme>
+	<programme start="20221019032000 +0800" stop="20221019040000 +0800" channel="6007">
+		<title lang="zh">Discover新海南</title>
+	</programme>
+	<programme start="20221019040000 +0800" stop="20221019043000 +0800" channel="6007">
+		<title lang="zh">三沙新闻</title>
+	</programme>
+	<programme start="20221019043000 +0800" stop="20221019051500 +0800" channel="6007">
+		<title lang="zh">巡航祖宗海</title>
+	</programme>
+	<programme start="20221019051500 +0800" stop="20221019060000 +0800" channel="6007">
+		<title lang="zh">风尚潮</title>
+	</programme>
+	<programme start="20221019060000 +0800" stop="20221019063000 +0800" channel="6007">
+		<title lang="zh">海南岛纪事</title>
+	</programme>
+	<programme start="20221019063000 +0800" stop="20221019070100 +0800" channel="6007">
+		<title lang="zh">精编节目</title>
+	</programme>
+	<programme start="20221019070100 +0800" stop="20221019072000 +0800" channel="6007">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme start="20221019072000 +0800" stop="20221019080000 +0800" channel="6007">
+		<title lang="zh">三沙新闻</title>
+	</programme>
+	<programme start="20221019080000 +0800" stop="20221019082800 +0800" channel="6007">
+		<title lang="zh">南海直播室</title>
+	</programme>
+	<programme start="20221019082800 +0800" stop="20221019084300 +0800" channel="6007">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme start="20221019084300 +0800" stop="20221019090000 +0800" channel="6007">
+		<title lang="zh">滨海旅游环境预报</title>
+	</programme>
+	<programme start="20221019090000 +0800" stop="20221019103000 +0800" channel="6007">
+		<title lang="zh">电影时间</title>
+	</programme>
+	<programme start="20221019103000 +0800" stop="20221019111000 +0800" channel="6007">
+		<title lang="zh">诗意时间</title>
+	</programme>
+	<programme start="20221019111000 +0800" stop="20221019115000 +0800" channel="6007">
+		<title lang="zh">思想耀江山</title>
+	</programme>
+	<programme start="20221019115000 +0800" stop="20221020000000 +0800" channel="6007">
+		<title lang="zh">中国海岛环境预报</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018072500 +0800" channel="6008">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017072500 +0800" stop="20221017082500 +0800" channel="6008">
-		<title lang="zh"> çæ´»å¸®</title>
-	</programme>
-	<programme start="20221017082500 +0800" stop="20221017101000 +0800" channel="6008">
-		<title lang="zh"> æ©é´å§åº</title>
-	</programme>
-	<programme start="20221017101000 +0800" stop="20221017120000 +0800" channel="6008">
-		<title lang="zh"> æ©é´å§åº</title>
-	</programme>
-	<programme start="20221017120000 +0800" stop="20221017123000 +0800" channel="6008">
-		<title lang="zh"> åæ´å±æ½®ç</title>
-	</programme>
-	<programme start="20221017123000 +0800" stop="20221017143500 +0800" channel="6008">
-		<title lang="zh"> å¥å¦çä¸­å»</title>
-	</programme>
-	<programme start="20221017143500 +0800" stop="20221017151000 +0800" channel="6008">
-		<title lang="zh"> çåå¸®</title>
-	</programme>
-	<programme start="20221017151000 +0800" stop="20221017160000 +0800" channel="6008">
-		<title lang="zh"> å¥å¦çä¸­å»</title>
-	</programme>
-	<programme start="20221017160000 +0800" stop="20221017190000 +0800" channel="6008">
-		<title lang="zh"> åæå§åº</title>
-	</programme>
-	<programme start="20221017190000 +0800" stop="20221017192000 +0800" channel="6008">
-		<title lang="zh"> ç¸äº²è®°</title>
-	</programme>
-	<programme start="20221017192000 +0800" stop="20221017195000 +0800" channel="6008">
-		<title lang="zh"> çæ´»å¸®</title>
-	</programme>
-	<programme start="20221017195000 +0800" stop="20221017220000 +0800" channel="6008">
-		<title lang="zh"> æ¸©æå§åº</title>
-	</programme>
-	<programme start="20221017220000 +0800" stop="20221017220500 +0800" channel="6008">
-		<title lang="zh"> åæ´å±æ½®çèµè®¯ç</title>
-	</programme>
-	<programme start="20221017220500 +0800" stop="20221017233500 +0800" channel="6008">
-		<title lang="zh"> æ¸©æå§åº</title>
-	</programme>
-	<programme start="20221017233500 +0800" stop="20221018072500 +0800" channel="6008">
-		<title lang="zh"> çæ´»å¸®</title>
 	</programme>
 	<programme start="20221018072500 +0800" stop="20221018082500 +0800" channel="6008">
 		<title lang="zh"> çæ´»å¸®</title>
@@ -531,56 +468,53 @@
 	<programme start="20221018220500 +0800" stop="20221018233500 +0800" channel="6008">
 		<title lang="zh"> æ¸©æå§åº</title>
 	</programme>
-	<programme start="20221018233500 +0800" stop="20221019000000 +0800" channel="6008">
+	<programme start="20221018233500 +0800" stop="20221019072500 +0800" channel="6008">
 		<title lang="zh"> çæ´»å¸®</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017003000 +0800" channel="6009">
+	<programme start="20221019072500 +0800" stop="20221019082500 +0800" channel="6008">
+		<title lang="zh"> çæ´»å¸®</title>
+	</programme>
+	<programme start="20221019082500 +0800" stop="20221019101000 +0800" channel="6008">
+		<title lang="zh"> æ©é´å§åº</title>
+	</programme>
+	<programme start="20221019101000 +0800" stop="20221019120000 +0800" channel="6008">
+		<title lang="zh"> æ©é´å§åº</title>
+	</programme>
+	<programme start="20221019120000 +0800" stop="20221019123000 +0800" channel="6008">
+		<title lang="zh"> åæ´å±æ½®çèµè®¯ç</title>
+	</programme>
+	<programme start="20221019123000 +0800" stop="20221019143500 +0800" channel="6008">
+		<title lang="zh"> ç¸äº²è®°</title>
+	</programme>
+	<programme start="20221019143500 +0800" stop="20221019151000 +0800" channel="6008">
+		<title lang="zh"> çæ´»å¸®</title>
+	</programme>
+	<programme start="20221019151000 +0800" stop="20221019160000 +0800" channel="6008">
+		<title lang="zh"> ç¸äº²è®°</title>
+	</programme>
+	<programme start="20221019160000 +0800" stop="20221019190000 +0800" channel="6008">
+		<title lang="zh"> åæå§åº</title>
+	</programme>
+	<programme start="20221019190000 +0800" stop="20221019192000 +0800" channel="6008">
+		<title lang="zh"> ç¸äº²è®°</title>
+	</programme>
+	<programme start="20221019192000 +0800" stop="20221019195000 +0800" channel="6008">
+		<title lang="zh"> çæ´»å¸®</title>
+	</programme>
+	<programme start="20221019195000 +0800" stop="20221019220000 +0800" channel="6008">
+		<title lang="zh"> æ¸©æå§åº</title>
+	</programme>
+	<programme start="20221019220000 +0800" stop="20221019220500 +0800" channel="6008">
+		<title lang="zh"> åæ´å±æ½®çèµè®¯ç</title>
+	</programme>
+	<programme start="20221019220500 +0800" stop="20221019233500 +0800" channel="6008">
+		<title lang="zh"> æ¸©æå§åº</title>
+	</programme>
+	<programme start="20221019233500 +0800" stop="20221020000000 +0800" channel="6008">
+		<title lang="zh"> çæ´»å¸®</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018003000 +0800" channel="6009">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017003000 +0800" stop="20221017070000 +0800" channel="6009">
-		<title lang="zh"> ç´æ­æµ·å</title>
-	</programme>
-	<programme start="20221017070000 +0800" stop="20221017084000 +0800" channel="6009">
-		<title lang="zh"> æµ·åæ°é»èæ­</title>
-	</programme>
-	<programme start="20221017084000 +0800" stop="20221017092000 +0800" channel="6009">
-		<title lang="zh"> èªè´¸ä½³</title>
-	</programme>
-	<programme start="20221017092000 +0800" stop="20221017111000 +0800" channel="6009">
-		<title lang="zh"> ç´æ­æµ·å</title>
-	</programme>
-	<programme start="20221017111000 +0800" stop="20221017121000 +0800" channel="6009">
-		<title lang="zh"> æµ·åæ°é»èæ­</title>
-	</programme>
-	<programme start="20221017121000 +0800" stop="20221017125000 +0800" channel="6009">
-		<title lang="zh"> èªè´¸ä½³</title>
-	</programme>
-	<programme start="20221017125000 +0800" stop="20221017132000 +0800" channel="6009">
-		<title lang="zh"> ä¹¡ææ¯å´è¿è¡æ¶</title>
-	</programme>
-	<programme start="20221017132000 +0800" stop="20221017180000 +0800" channel="6009">
-		<title lang="zh"> åé´å§åº</title>
-	</programme>
-	<programme start="20221017180000 +0800" stop="20221017190000 +0800" channel="6009">
-		<title lang="zh"> ç´æ­æµ·å</title>
-	</programme>
-	<programme start="20221017190000 +0800" stop="20221017192500 +0800" channel="6009">
-		<title lang="zh"> ä¹¡ææ¯å´è¿è¡æ¶</title>
-	</programme>
-	<programme start="20221017192500 +0800" stop="20221017214000 +0800" channel="6009">
-		<title lang="zh"> ç¬¬ä¸å§åº</title>
-	</programme>
-	<programme start="20221017214000 +0800" stop="20221017220000 +0800" channel="6009">
-		<title lang="zh"> è¿½å¯»</title>
-	</programme>
-	<programme start="20221017220000 +0800" stop="20221017223500 +0800" channel="6009">
-		<title lang="zh"> ç´éèªè´¸æ¸¯</title>
-	</programme>
-	<programme start="20221017223500 +0800" stop="20221017235500 +0800" channel="6009">
-		<title lang="zh"> ç¼¤çº·å§åº</title>
-	</programme>
-	<programme start="20221017235500 +0800" stop="20221018003000 +0800" channel="6009">
-		<title lang="zh"> æµ·åæ°é»èæ­</title>
 	</programme>
 	<programme start="20221018003000 +0800" stop="20221018070000 +0800" channel="6009">
 		<title lang="zh"> ç´æ­æµ·å</title>
@@ -621,47 +555,56 @@
 	<programme start="20221018223500 +0800" stop="20221018235500 +0800" channel="6009">
 		<title lang="zh"> ç¼¤çº·å§åº</title>
 	</programme>
-	<programme start="20221018235500 +0800" stop="20221019000000 +0800" channel="6009">
+	<programme start="20221018235500 +0800" stop="20221019003000 +0800" channel="6009">
 		<title lang="zh"> æµ·åæ°é»èæ­</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017001500 +0800" channel="6010">
+	<programme start="20221019003000 +0800" stop="20221019070000 +0800" channel="6009">
+		<title lang="zh"> ç´æ­æµ·å</title>
+	</programme>
+	<programme start="20221019070000 +0800" stop="20221019084000 +0800" channel="6009">
+		<title lang="zh"> æµ·åæ°é»èæ­</title>
+	</programme>
+	<programme start="20221019084000 +0800" stop="20221019092000 +0800" channel="6009">
+		<title lang="zh"> ç´éèªè´¸æ¸¯</title>
+	</programme>
+	<programme start="20221019092000 +0800" stop="20221019111000 +0800" channel="6009">
+		<title lang="zh"> ç´æ­æµ·å</title>
+	</programme>
+	<programme start="20221019111000 +0800" stop="20221019121000 +0800" channel="6009">
+		<title lang="zh"> æµ·åæ°é»èæ­</title>
+	</programme>
+	<programme start="20221019121000 +0800" stop="20221019125000 +0800" channel="6009">
+		<title lang="zh"> ç´éèªè´¸æ¸¯</title>
+	</programme>
+	<programme start="20221019125000 +0800" stop="20221019132000 +0800" channel="6009">
+		<title lang="zh"> ä¹¡ææ¯å´è¿è¡æ¶</title>
+	</programme>
+	<programme start="20221019132000 +0800" stop="20221019161000 +0800" channel="6009">
+		<title lang="zh"> åé´å§åº</title>
+	</programme>
+	<programme start="20221019161000 +0800" stop="20221019180000 +0800" channel="6009">
+		<title lang="zh"> åé´å§åº</title>
+	</programme>
+	<programme start="20221019180000 +0800" stop="20221019190000 +0800" channel="6009">
+		<title lang="zh"> ç´æ­æµ·å</title>
+	</programme>
+	<programme start="20221019190000 +0800" stop="20221019192500 +0800" channel="6009">
+		<title lang="zh"> ä¹¡ææ¯å´è¿è¡æ¶</title>
+	</programme>
+	<programme start="20221019192500 +0800" stop="20221019220000 +0800" channel="6009">
+		<title lang="zh"> ç¬¬ä¸å§åº</title>
+	</programme>
+	<programme start="20221019220000 +0800" stop="20221019223500 +0800" channel="6009">
+		<title lang="zh"> ç´éèªè´¸æ¸¯</title>
+	</programme>
+	<programme start="20221019223500 +0800" stop="20221019235500 +0800" channel="6009">
+		<title lang="zh"> ç¼¤çº·å§åº</title>
+	</programme>
+	<programme start="20221019235500 +0800" stop="20221020000000 +0800" channel="6009">
+		<title lang="zh"> æµ·åæ°é»èæ­</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018001500 +0800" channel="6010">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017001500 +0800" stop="20221017071000 +0800" channel="6010">
-		<title lang="zh"> é£å°æµ·å</title>
-	</programme>
-	<programme start="20221017071000 +0800" stop="20221017130000 +0800" channel="6010">
-		<title lang="zh"> åååå</title>
-	</programme>
-	<programme start="20221017130000 +0800" stop="20221017132000 +0800" channel="6010">
-		<title lang="zh"> é£å°æµ·å</title>
-	</programme>
-	<programme start="20221017132000 +0800" stop="20221017134000 +0800" channel="6010">
-		<title lang="zh"> ä¸èµ·å»æè¡</title>
-	</programme>
-	<programme start="20221017134000 +0800" stop="20221017141000 +0800" channel="6010">
-		<title lang="zh"> è·çç»å¸å»æè¡</title>
-	</programme>
-	<programme start="20221017141000 +0800" stop="20221017193000 +0800" channel="6010">
-		<title lang="zh"> åååå</title>
-	</programme>
-	<programme start="20221017193000 +0800" stop="20221017200000 +0800" channel="6010">
-		<title lang="zh"> é£å°æµ·å</title>
-	</programme>
-	<programme start="20221017200000 +0800" stop="20221017203000 +0800" channel="6010">
-		<title lang="zh"> éè§æµ·åç¾</title>
-	</programme>
-	<programme start="20221017203000 +0800" stop="20221017210000 +0800" channel="6010">
-		<title lang="zh"> å·å±ææå</title>
-	</programme>
-	<programme start="20221017210000 +0800" stop="20221017233000 +0800" channel="6010">
-		<title lang="zh"> æåå§åº(3é)</title>
-	</programme>
-	<programme start="20221017233000 +0800" stop="20221017235000 +0800" channel="6010">
-		<title lang="zh"> éè§æµ·åç¾</title>
-	</programme>
-	<programme start="20221017235000 +0800" stop="20221018001500 +0800" channel="6010">
-		<title lang="zh"> å·å±ææå</title>
 	</programme>
 	<programme start="20221018001500 +0800" stop="20221018071000 +0800" channel="6010">
 		<title lang="zh"> é£å°æµ·å</title>
@@ -696,80 +639,47 @@
 	<programme start="20221018233000 +0800" stop="20221018235000 +0800" channel="6010">
 		<title lang="zh"> éè§æµ·åç¾</title>
 	</programme>
-	<programme start="20221018235000 +0800" stop="20221019000000 +0800" channel="6010">
+	<programme start="20221018235000 +0800" stop="20221019001500 +0800" channel="6010">
 		<title lang="zh"> å·å±ææå</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017010000 +0800" channel="6011">
+	<programme start="20221019001500 +0800" stop="20221019071000 +0800" channel="6010">
+		<title lang="zh"> é£å°æµ·å</title>
+	</programme>
+	<programme start="20221019071000 +0800" stop="20221019130000 +0800" channel="6010">
+		<title lang="zh"> åååå</title>
+	</programme>
+	<programme start="20221019130000 +0800" stop="20221019132000 +0800" channel="6010">
+		<title lang="zh"> é£å°æµ·å</title>
+	</programme>
+	<programme start="20221019132000 +0800" stop="20221019134000 +0800" channel="6010">
+		<title lang="zh"> éè§æµ·åç¾</title>
+	</programme>
+	<programme start="20221019134000 +0800" stop="20221019141000 +0800" channel="6010">
+		<title lang="zh"> å·å±ææå</title>
+	</programme>
+	<programme start="20221019141000 +0800" stop="20221019193000 +0800" channel="6010">
+		<title lang="zh"> åååå</title>
+	</programme>
+	<programme start="20221019193000 +0800" stop="20221019200000 +0800" channel="6010">
+		<title lang="zh"> é£å°æµ·å</title>
+	</programme>
+	<programme start="20221019200000 +0800" stop="20221019203000 +0800" channel="6010">
+		<title lang="zh"> éè§æµ·åç¾</title>
+	</programme>
+	<programme start="20221019203000 +0800" stop="20221019210000 +0800" channel="6010">
+		<title lang="zh"> å·å±ææå</title>
+	</programme>
+	<programme start="20221019210000 +0800" stop="20221019233000 +0800" channel="6010">
+		<title lang="zh"> æåå§åº(3é)</title>
+	</programme>
+	<programme start="20221019233000 +0800" stop="20221019235000 +0800" channel="6010">
+		<title lang="zh"> éè§æµ·åç¾</title>
+	</programme>
+	<programme start="20221019235000 +0800" stop="20221020000000 +0800" channel="6010">
+		<title lang="zh"> å·å±ææå</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018010000 +0800" channel="6011">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017010000 +0800" stop="20221017013000 +0800" channel="6011">
-		<title lang="zh"> æ°æ­æ¥</title>
-	</programme>
-	<programme start="20221017013000 +0800" stop="20221017015000 +0800" channel="6011">
-		<title lang="zh"> å¤§è¯ä½è²ï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017015000 +0800" stop="20221017023000 +0800" channel="6011">
-		<title lang="zh"> UFCç»ææ ¼æï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017023000 +0800" stop="20221017061000 +0800" channel="6011">
-		<title lang="zh"> å¶åå§åºï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017061000 +0800" stop="20221017071500 +0800" channel="6011">
-		<title lang="zh"> è¿å¨å¹¿åº</title>
-	</programme>
-	<programme start="20221017071500 +0800" stop="20221017081500 +0800" channel="6011">
-		<title lang="zh"> é»éèµåºï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017081500 +0800" stop="20221017090000 +0800" channel="6011">
-		<title lang="zh"> å¼å¥ç°åºï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017090000 +0800" stop="20221017100500 +0800" channel="6011">
-		<title lang="zh"> UFCç»ææ ¼æï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017100500 +0800" stop="20221017111000 +0800" channel="6011">
-		<title lang="zh"> åéèµåº</title>
-	</programme>
-	<programme start="20221017111000 +0800" stop="20221017120000 +0800" channel="6011">
-		<title lang="zh"> é»éèµåº</title>
-	</programme>
-	<programme start="20221017120000 +0800" stop="20221017123000 +0800" channel="6011">
-		<title lang="zh"> å¥è¶£å¤§èªç¶</title>
-	</programme>
-	<programme start="20221017123000 +0800" stop="20221017125000 +0800" channel="6011">
-		<title lang="zh"> è½¦éµå¨ï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017125000 +0800" stop="20221017131000 +0800" channel="6011">
-		<title lang="zh"> ååç²¾å½©ï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017131000 +0800" stop="20221017134000 +0800" channel="6011">
-		<title lang="zh"> ç¾ä¸½ä¿ä½³äºº</title>
-	</programme>
-	<programme start="20221017134000 +0800" stop="20221017143000 +0800" channel="6011">
-		<title lang="zh"> å·å³°èµåºï¼éæ­ï¼ï¼</title>
-	</programme>
-	<programme start="20221017143000 +0800" stop="20221017180000 +0800" channel="6011">
-		<title lang="zh"> å¶åå§åºï¼éæ­ï¼</title>
-	</programme>
-	<programme start="20221017180000 +0800" stop="20221017185000 +0800" channel="6011">
-		<title lang="zh"> WWEç¾å½èä¸æè·¤èµ</title>
-	</programme>
-	<programme start="20221017185000 +0800" stop="20221017191500 +0800" channel="6011">
-		<title lang="zh"> è½¦éµå¨</title>
-	</programme>
-	<programme start="20221017191500 +0800" stop="20221017200000 +0800" channel="6011">
-		<title lang="zh"> å·å³°èµåº</title>
-	</programme>
-	<programme start="20221017200000 +0800" stop="20221017204500 +0800" channel="6011">
-		<title lang="zh"> å¿«ä¹æ æèå¤§ç</title>
-	</programme>
-	<programme start="20221017204500 +0800" stop="20221017210000 +0800" channel="6011">
-		<title lang="zh"> ååç²¾å½©</title>
-	</programme>
-	<programme start="20221017210000 +0800" stop="20221017213000 +0800" channel="6011">
-		<title lang="zh"> æ°æ­æ¥</title>
-	</programme>
-	<programme start="20221017213000 +0800" stop="20221018010000 +0800" channel="6011">
-		<title lang="zh"> å¶åå§åºï¼èµæï¼</title>
 	</programme>
 	<programme start="20221018010000 +0800" stop="20221018013000 +0800" channel="6011">
 		<title lang="zh"> æ°æ­æ¥</title>
@@ -834,38 +744,77 @@
 	<programme start="20221018210000 +0800" stop="20221018213000 +0800" channel="6011">
 		<title lang="zh"> æ°æ­æ¥</title>
 	</programme>
-	<programme start="20221018213000 +0800" stop="20221019000000 +0800" channel="6011">
+	<programme start="20221018213000 +0800" stop="20221019010000 +0800" channel="6011">
 		<title lang="zh"> å¶åå§åºï¼èµæï¼</title>
 	</programme>
-	<programme start="20221017000000 +0800" stop="20221017070000 +0800" channel="6012">
+	<programme start="20221019010000 +0800" stop="20221019013000 +0800" channel="6011">
+		<title lang="zh"> æ°æ­æ¥</title>
+	</programme>
+	<programme start="20221019013000 +0800" stop="20221019015000 +0800" channel="6011">
+		<title lang="zh"> è½¦éµå¨ï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019015000 +0800" stop="20221019021500 +0800" channel="6011">
+		<title lang="zh"> WWEç¾å½èä¸æè·¤èµï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019021500 +0800" stop="20221019061000 +0800" channel="6011">
+		<title lang="zh"> å¶åå§åºï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019061000 +0800" stop="20221019071500 +0800" channel="6011">
+		<title lang="zh"> è¿å¨å¹¿åº</title>
+	</programme>
+	<programme start="20221019071500 +0800" stop="20221019081500 +0800" channel="6011">
+		<title lang="zh"> é»éèµåºï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019081500 +0800" stop="20221019090000 +0800" channel="6011">
+		<title lang="zh"> å¼å¥ç°åºï¼éæ­</title>
+	</programme>
+	<programme start="20221019090000 +0800" stop="20221019100500 +0800" channel="6011">
+		<title lang="zh"> WWEç¾å½èä¸æè·¤èµï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019100500 +0800" stop="20221019111000 +0800" channel="6011">
+		<title lang="zh"> åéèµåº</title>
+	</programme>
+	<programme start="20221019111000 +0800" stop="20221019120000 +0800" channel="6011">
+		<title lang="zh"> é»éèµåº</title>
+	</programme>
+	<programme start="20221019120000 +0800" stop="20221019123000 +0800" channel="6011">
+		<title lang="zh"> å¥è¶£å¤§èªç¶</title>
+	</programme>
+	<programme start="20221019123000 +0800" stop="20221019131000 +0800" channel="6011">
+		<title lang="zh"> è½¦éµå¨ï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019131000 +0800" stop="20221019134000 +0800" channel="6011">
+		<title lang="zh"> ç¾ä¸½ä¿ä½³äºº</title>
+	</programme>
+	<programme start="20221019134000 +0800" stop="20221019143000 +0800" channel="6011">
+		<title lang="zh"> å·å³°èµåºï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019143000 +0800" stop="20221019180000 +0800" channel="6011">
+		<title lang="zh"> å¶åå§åºï¼éæ­ï¼</title>
+	</programme>
+	<programme start="20221019180000 +0800" stop="20221019185000 +0800" channel="6011">
+		<title lang="zh"> WWEç¾å½èä¸æè·¤èµ</title>
+	</programme>
+	<programme start="20221019185000 +0800" stop="20221019191500 +0800" channel="6011">
+		<title lang="zh"> è½¦éµå¨</title>
+	</programme>
+	<programme start="20221019191500 +0800" stop="20221019200000 +0800" channel="6011">
+		<title lang="zh"> å·å³°èµåº</title>
+	</programme>
+	<programme start="20221019200000 +0800" stop="20221019204500 +0800" channel="6011">
+		<title lang="zh"> å¿«ä¹æ æèå¤§ç</title>
+	</programme>
+	<programme start="20221019204500 +0800" stop="20221019210000 +0800" channel="6011">
+		<title lang="zh"> ååç²¾å½©</title>
+	</programme>
+	<programme start="20221019210000 +0800" stop="20221019213000 +0800" channel="6011">
+		<title lang="zh"> æ°æ­æ¥</title>
+	</programme>
+	<programme start="20221019213000 +0800" stop="20221020000000 +0800" channel="6011">
+		<title lang="zh"> å¶åå§åºï¼èµæï¼</title>
+	</programme>
+	<programme start="20221018000000 +0800" stop="20221018070000 +0800" channel="6012">
 		<title lang="zh">续昨日节目</title>
-	</programme>
-	<programme start="20221017070000 +0800" stop="20221017073000 +0800" channel="6012">
-		<title lang="zh"> ç§æ1çº¿</title>
-	</programme>
-	<programme start="20221017073000 +0800" stop="20221017081000 +0800" channel="6012">
-		<title lang="zh"> å®¶åº­ç§</title>
-	</programme>
-	<programme start="20221017081000 +0800" stop="20221017133000 +0800" channel="6012">
-		<title lang="zh"> é³åå§åº</title>
-	</programme>
-	<programme start="20221017133000 +0800" stop="20221017170000 +0800" channel="6012">
-		<title lang="zh"> ä¸åå§åº</title>
-	</programme>
-	<programme start="20221017170000 +0800" stop="20221017180000 +0800" channel="6012">
-		<title lang="zh"> æµ·åäººå£ä¸å¥åº·</title>
-	</programme>
-	<programme start="20221017180000 +0800" stop="20221017183000 +0800" channel="6012">
-		<title lang="zh"> åéå¨ç»</title>
-	</programme>
-	<programme start="20221017183000 +0800" stop="20221017210000 +0800" channel="6012">
-		<title lang="zh"> éæ¼å¨ç»</title>
-	</programme>
-	<programme start="20221017210000 +0800" stop="20221017213000 +0800" channel="6012">
-		<title lang="zh"> ç§æ1çº¿</title>
-	</programme>
-	<programme start="20221017213000 +0800" stop="20221018070000 +0800" channel="6012">
-		<title lang="zh"> å½éå²å§åº</title>
 	</programme>
 	<programme start="20221018070000 +0800" stop="20221018073000 +0800" channel="6012">
 		<title lang="zh"> ç§æ1çº¿</title>
@@ -888,7 +837,31 @@
 	<programme start="20221018210000 +0800" stop="20221018213000 +0800" channel="6012">
 		<title lang="zh"> ç§æ1çº¿</title>
 	</programme>
-	<programme start="20221018213000 +0800" stop="20221019000000 +0800" channel="6012">
+	<programme start="20221018213000 +0800" stop="20221019070000 +0800" channel="6012">
+		<title lang="zh"> å½éå²å§åº</title>
+	</programme>
+	<programme start="20221019070000 +0800" stop="20221019073000 +0800" channel="6012">
+		<title lang="zh"> ç§æ1çº¿</title>
+	</programme>
+	<programme start="20221019073000 +0800" stop="20221019081000 +0800" channel="6012">
+		<title lang="zh"> å®¶åº­ç§</title>
+	</programme>
+	<programme start="20221019081000 +0800" stop="20221019133000 +0800" channel="6012">
+		<title lang="zh"> é³åå§åº</title>
+	</programme>
+	<programme start="20221019133000 +0800" stop="20221019180000 +0800" channel="6012">
+		<title lang="zh"> ä¸åå§åº</title>
+	</programme>
+	<programme start="20221019180000 +0800" stop="20221019183000 +0800" channel="6012">
+		<title lang="zh"> åéå¨ç»</title>
+	</programme>
+	<programme start="20221019183000 +0800" stop="20221019210000 +0800" channel="6012">
+		<title lang="zh"> éæ¼å¨ç»</title>
+	</programme>
+	<programme start="20221019210000 +0800" stop="20221019213000 +0800" channel="6012">
+		<title lang="zh"> ç§æ1çº¿</title>
+	</programme>
+	<programme start="20221019213000 +0800" stop="20221020000000 +0800" channel="6012">
 		<title lang="zh"> å½éå²å§åº</title>
 	</programme>
 </tv>
