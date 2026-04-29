@@ -102,106 +102,229 @@
 	<channel id="6034">
 		<display-name lang="zh">江西教育</display-name>
 	</channel>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6001">
+	<programme start="20260430000000 +0800" stop="20260430010000 +0800" channel="6001">
+		<title lang="zh">凤凰洲际快车</title>
+	</programme>
+	<programme start="20260430010000 +0800" stop="20260430013000 +0800" channel="6001">
+		<title lang="zh">有报天天读</title>
+	</programme>
+	<programme start="20260430013000 +0800" stop="20260430020000 +0800" channel="6001">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme start="20260430020000 +0800" stop="20260430023000 +0800" channel="6001">
+		<title lang="zh">纪录大时代</title>
+	</programme>
+	<programme start="20260430023000 +0800" stop="20260430030000 +0800" channel="6001">
+		<title lang="zh">亚洲财经透视</title>
+	</programme>
+	<programme start="20260430030000 +0800" stop="20260430033000 +0800" channel="6001">
+		<title lang="zh">军情观察室</title>
+	</programme>
+	<programme start="20260430033000 +0800" stop="20260430040000 +0800" channel="6001">
+		<title lang="zh">凤凰聚焦</title>
+	</programme>
+	<programme start="20260430040000 +0800" stop="20260430043000 +0800" channel="6001">
+		<title lang="zh">新闻鉴证组</title>
+	</programme>
+	<programme start="20260430043000 +0800" stop="20260430050000 +0800" channel="6001">
+		<title lang="zh">凤凰全球连线</title>
+	</programme>
+	<programme start="20260430050000 +0800" stop="20260430053000 +0800" channel="6001">
+		<title lang="zh">有报天天读</title>
+	</programme>
+	<programme start="20260430053000 +0800" stop="20260430060000 +0800" channel="6001">
+		<title lang="zh">发现大湾区</title>
+	</programme>
+	<programme start="20260430060000 +0800" stop="20260430063000 +0800" channel="6001">
+		<title lang="zh">纪录大时代</title>
+	</programme>
+	<programme start="20260430063000 +0800" stop="20260430070000 +0800" channel="6001">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme start="20260430070000 +0800" stop="20260430090000 +0800" channel="6001">
+		<title lang="zh">凤凰早班车</title>
+	</programme>
+	<programme start="20260430090000 +0800" stop="20260430093000 +0800" channel="6001">
+		<title lang="zh">凤凰全球连线</title>
+	</programme>
+	<programme start="20260430093000 +0800" stop="20260430100000 +0800" channel="6001">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme start="20260430100000 +0800" stop="20260430110000 +0800" channel="6001">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme start="20260430110000 +0800" stop="20260430113000 +0800" channel="6001">
+		<title lang="zh">凤凰聚焦</title>
+	</programme>
+	<programme start="20260430113000 +0800" stop="20260430120000 +0800" channel="6001">
+		<title lang="zh">有报天天读</title>
+	</programme>
+	<programme start="20260430120000 +0800" stop="20260430125500 +0800" channel="6001">
+		<title lang="zh">凤凰午间专列</title>
+	</programme>
+	<programme start="20260430125500 +0800" stop="20260430130000 +0800" channel="6001">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme start="20260430130000 +0800" stop="20260430133000 +0800" channel="6001">
+		<title lang="zh">总编辑时间</title>
+	</programme>
+	<programme start="20260430133000 +0800" stop="20260430140000 +0800" channel="6001">
+		<title lang="zh">名人面对面</title>
+	</programme>
+	<programme start="20260430140000 +0800" stop="20260430143000 +0800" channel="6001">
+		<title lang="zh">文化大观园</title>
+	</programme>
+	<programme start="20260430143000 +0800" stop="20260430150000 +0800" channel="6001">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme start="20260430150000 +0800" stop="20260430160000 +0800" channel="6001">
+		<title lang="zh">凤凰正点播报</title>
+	</programme>
+	<programme start="20260430160000 +0800" stop="20260430163000 +0800" channel="6001">
+		<title lang="zh">军情观察室</title>
+	</programme>
+	<programme start="20260430163000 +0800" stop="20260430170000 +0800" channel="6001">
+		<title lang="zh">纪录大时代</title>
+	</programme>
+	<programme start="20260430170000 +0800" stop="20260430173000 +0800" channel="6001">
+		<title lang="zh">发现大湾区</title>
+	</programme>
+	<programme start="20260430173000 +0800" stop="20260430180000 +0800" channel="6001">
+		<title lang="zh">有报天天读</title>
+	</programme>
+	<programme start="20260430180000 +0800" stop="20260430183000 +0800" channel="6001">
+		<title lang="zh">凤凰焦点新闻</title>
+	</programme>
+	<programme start="20260430183000 +0800" stop="20260430190000 +0800" channel="6001">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme start="20260430190000 +0800" stop="20260430193000 +0800" channel="6001">
+		<title lang="zh">亚洲财经透视</title>
+	</programme>
+	<programme start="20260430193000 +0800" stop="20260430200000 +0800" channel="6001">
+		<title lang="zh">石评天下</title>
+	</programme>
+	<programme start="20260430200000 +0800" stop="20260430203000 +0800" channel="6001">
+		<title lang="zh">凤凰大视野</title>
+	</programme>
+	<programme start="20260430203000 +0800" stop="20260430210000 +0800" channel="6001">
+		<title lang="zh">风云对话</title>
+	</programme>
+	<programme start="20260430210000 +0800" stop="20260430215500 +0800" channel="6001">
+		<title lang="zh">时事直通车</title>
+	</programme>
+	<programme start="20260430215500 +0800" stop="20260430220000 +0800" channel="6001">
+		<title lang="zh">凤凰气象站</title>
+	</programme>
+	<programme start="20260430220000 +0800" stop="20260430223000 +0800" channel="6001">
+		<title lang="zh">凤凰聚焦</title>
+	</programme>
+	<programme start="20260430223000 +0800" stop="20260430230000 +0800" channel="6001">
+		<title lang="zh">凤凰全球连线</title>
+	</programme>
+	<programme start="20260430230000 +0800" stop="20260430233000 +0800" channel="6001">
+		<title lang="zh">亚洲财经透视</title>
+	</programme>
+	<programme start="20260430233000 +0800" stop="20260501000000 +0800" channel="6001">
+		<title lang="zh">新闻今日谈</title>
+	</programme>
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6002">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6002">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6003">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6003">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6004">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6004">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6005">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6005">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6006">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6006">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6007">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6007">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6008">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6008">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6009">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6009">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6010">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6010">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6011">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6011">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6012">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6012">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6013">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6013">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6014">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6014">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6015">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6015">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6016">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6016">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6017">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6017">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6018">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6018">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6019">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6019">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6020">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6020">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6021">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6021">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6022">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6022">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6023">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6023">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6024">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6024">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6025">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6025">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6026">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6026">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6027">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6027">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6028">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6028">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6029">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6029">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6030">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6030">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6031">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6031">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6032">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6032">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6033">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6033">
-		<title lang="zh">暂无节目列表</title>
-	</programme>
-	<programme start="20260429000000 +0800" stop="20260430000000 +0800" channel="6034">
+	<programme start="20260430000000 +0800" stop="20260501000000 +0800" channel="6034">
 		<title lang="zh">暂无节目列表</title>
 	</programme>
 </tv>
